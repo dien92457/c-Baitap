@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\bin\Debug\Lop_hoc.exe.config
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\bin\Debug\Lop_hoc.exe
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\bin\Debug\Lop_hoc.pdb
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\obj\Debug\Lop_hoc.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\obj\Debug\Lop_hoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\obj\Debug\Lop_hoc.Form1.resources
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\obj\Debug\Lop_hoc.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\obj\Debug\Lop_hoc.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\obj\Debug\Lop_hoc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\obj\Debug\Lop_hoc.exe
+C:\Users\Administrator\Source\Repos\Lop_hoc\Lop_hoc\obj\Debug\Lop_hoc.pdb
